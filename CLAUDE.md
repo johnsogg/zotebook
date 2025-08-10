@@ -246,4 +246,7 @@ When working in this repository:
 6. **Maintain performance standards** - the original was remarkably responsive
 7. **Document design decisions** - capture rationale for future developers
 
+## Project Reminders
+- Refer to PLAN.md for the overall master plan
+
 The original Zotebook was ahead of its time. This web port is an opportunity to bring those innovative ideas to a modern platform where they can reach a much broader audience and continue to inspire new approaches to human-computer interaction in technical applications.
